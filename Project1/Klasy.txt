@@ -1,0 +1,3 @@
+<klasy>
+<klasa>KlasaTestowa</klasa>
+</klasy>

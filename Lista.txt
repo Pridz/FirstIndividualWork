@@ -1,0 +1,8 @@
+Kot ma:
+	Ala
+	Ela
+	Mina
+Kota ma:
+	Ala
+	Ola
+	Ania
