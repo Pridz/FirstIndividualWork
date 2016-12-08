@@ -4,5 +4,6 @@ Kot ma:
 	Mina
 Kota ma:
 	Ola
+	Ela
 	Ola
 	Ania

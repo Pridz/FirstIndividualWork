@@ -1,8 +1,11 @@
 #pragma once
 
-
 class TestClass {
-	public void WypiszPawePrzy(){
+	public:
+	void WypiszPawePrzy(){
 
+	}
+
+	void WypiszImieNazwisko(){
 	}
 };
