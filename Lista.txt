@@ -1,8 +1,10 @@
 Kot ma:
 	Ola
 	Ela
+	Ela
 	Mina
 Kota ma:
+	Ela
 	Ola
 	Ola
 	Ania

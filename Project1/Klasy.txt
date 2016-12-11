@@ -1,4 +1,5 @@
 <klasy>
 <klasa>KlasaTestowa</klasa>
 <klasa>NowaKlasa</klasa>
+<klasa>TestClassess</klasa>
 </klasy>
