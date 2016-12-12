@@ -1,3 +1,4 @@
 <klasy>
 <klasa>KlasaTestowa</klasa>
+<klasa>Katarzyna</klasa>
 </klasy>
